@@ -1,2 +1,2 @@
 FROM kharatramesh/phpworkingfinal
-ADD index.html /data
+ADD index.php /data
