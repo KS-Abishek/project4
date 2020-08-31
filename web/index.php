@@ -1,7 +1,7 @@
 <?php
-$servername = "7.0.0.133";
+$servername = "127.0.0.1";
 $username = "root";
-$password = "Root@!#86675";
+$password = "123";
 $dbname = "tech";
 $port = "3306";
 
